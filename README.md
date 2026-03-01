@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="readme_background.png" alt="Nova's banner" style="max-width: 100%; height: auto;" />
+  <img src="readme_background.png" alt="Nova's banner" style="max-width: 400%; height: 300%;" />
 </div>
 <br>
 </div>
