@@ -94,7 +94,7 @@
 [![Email](https://img.shields.io/badge/Email-leverianbeatus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com)
 <div align="center">
 
-> "Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live." – John Woods
+> "Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live." – John Woods<br>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=nova0408-glitch&label=Profile%20Views&labelColor=%23000000&countColor=%2339d353)
 
 
