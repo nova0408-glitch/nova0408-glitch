@@ -48,7 +48,7 @@
 ## 🛠️ Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,postgres,git,vscode,archlinux,java,python,docker,linux&perline=8" alt="Toolbelt" />
+  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,git,vscode,archlinux,java,python,linux&perline=8" alt="Toolbelt" />
 </p>
 
 <br>
