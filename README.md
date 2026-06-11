@@ -12,45 +12,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=I+craft+beautiful+web+experiences;Clean+code+%26+robust+systems;Always+learning+new+tech;Open+to+collaboration!" alt="Typing SVG" />
   </a>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="mailto:leverianbeatus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=nova0408-glitch&label=Profile%20Views&labelColor=0D1117&countColor=39D353" alt="Visitors" />
-</div>
-
----
-
-> **"Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live."** – John Woods
-
-<div align="center">
-  <sub>Made with ❤️ and lots of ☕</sub>
-</div>
-
-All links are now valid and functional:
-
-    Project links point directly to your repos
-    Sponsor link is correct
-    Email is clickable
-    Stats, activity graph, skill icons, and banner generator all use active services
-
-Recommendations:
-
-    Replace the two placeholder preview images with actual screenshots of your projects (upload them to your repo and link them).
-    Add more social links (LinkedIn, Twitter/X, Discord, etc.) if you want.
-
-Copy and paste the entire block above into your README.md. It will look stunning on GitHub!
-
-Want any further tweaks (different colors, more sections, real project screenshots placeholders, etc.)? Just tell me.
-
 </div>
 
 <br>
@@ -87,7 +48,7 @@ Want any further tweaks (different colors, more sections, real project screensho
 ## 🛠️ Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,git,vscode,archlinux,java,python,linux&perline=8" alt="Toolbelt" />
+  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,postgres,git,vscode,archlinux,java,python,docker,linux&perline=8" alt="Toolbelt" />
 </p>
 
 <br>
@@ -117,7 +78,7 @@ Want any further tweaks (different colors, more sections, real project screensho
 ## 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react, nodejs,mysql,git,github,linux,figma&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,tailwind,postgres,mysql,prisma,docker,git,github,linux,figma&perline=9" alt="Skills" />
 </p>
 
 ---
