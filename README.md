@@ -1,102 +1,130 @@
 <div align="center">
-<div align="center">
-  <img src="readme_background.png" alt="Nova's banner" style="max-width: 400%; height: 300%;" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor=39D353,00B4FF&height=280&section=header&text=Novaglitch&fontSize=90&fontAlignY=45&animation=fadeIn" alt="Novaglitch Banner" />
 </div>
-<br>
-</div>
-<br><br>
 
 <h1 align="center">Hi there! I'm <b>Novaglitch</b> 👋</h1>
 
-<p align="center"><em>Computer Science student · Full-Stack Developer · Open Source Enthusiast</em></p>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&width=435&lines=I+do+web+pretty+well!!;Clean+codes." alt="Typing SVG" /></a>
+<p align="center">
+  <em>Computer Science Student • Full-Stack Developer • Open Source Enthusiast</em>
+</p>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=800&color=39D353&center=true&vCenter=true&width=620&lines=I+craft+beautiful+web+experiences;Clean+code+%26+robust+systems;Always+learning+new+tech;Open+to+collaboration!" alt="Typing SVG" />
+  </a>
 </div>
+
+<br>
+
+---
 
 ## 🧾 Quick Facts
 
-<div style="max-width:800px;margin:auto;">
-<ul>
-<li>🔭 <strong>Currently</strong> building feature‑rich web apps & automation tools</li>
-<li>🌱 <strong>Learning</strong> advanced Java/JS design patterns & infrastructure as code</li>
-<li>👯 <strong>Open to</strong> open source collaboration, mentorship, and community events</li>
-<li>💬 <strong>Ask me about</strong> testing, CI/CD, GitHub Actions and docs</li>
-</ul>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🔭 <strong>Currently</strong></td>
+      <td>Building feature-rich web apps & automation tools</td>
+    </tr>
+    <tr>
+      <td align="center">🌱 <strong>Learning</strong></td>
+      <td>Advanced Java/JS design patterns • Infrastructure as Code</td>
+    </tr>
+    <tr>
+      <td align="center">👯 <strong>Open to</strong></td>
+      <td>Open source collaboration, mentorship & community events</td>
+    </tr>
+    <tr>
+      <td align="center">💬 <strong>Ask me about</strong></td>
+      <td>Testing, CI/CD, GitHub Actions & documentation</td>
+    </tr>
+  </table>
 </div>
 
+<br>
+
+---
 
 ## 🛠️ Toolbelt
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,postgres,git,vscode,archlinux,java,python,docker,linux&perline=8" alt="Toolbelt" />
+</p>
 
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white" style="max-width:100%;height:auto;" /></a>
-<a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white" style="max-width:100%;height:auto;" /></a>
-</div>
+<br>
 
-
+---
 
 ## 📁 Featured Projects
 
-<div style="max-width:800px;margin:auto;">
-- [SAS-1.0](https://github.com/nova0408-glitch/SAS-1.0) – Attendance tracking system for organizations that monitors daily punctuality and presence.<br>
-- [messy_intro](https://github.com/nova0408-glitch/messy_intro) – Experimenting with holographic effects on web pages.<br>
+<div align="center">
+
+### **[SAS-1.0](https://github.com/nova0408-glitch/SAS-1.0)**
+**Attendance Tracking System** — Monitors daily punctuality and presence for organizations.
+
+![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) <!-- Replace with real screenshot -->
+
+### **[messy_intro](https://github.com/nova0408-glitch/messy_intro)**
+**Holographic Web Effects** — Experimental holographic & glitch animations.
+
+![Messy Intro Preview](https://via.placeholder.com/680x300/00B4FF/0D1117?text=Holographic+Effects) <!-- Replace with real screenshot -->
+
 </div>
 
+<br>
 
+---
 
 ## 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,react,html,css,nodejs,postgres,mysql,git,docker,linux" alt="tech icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,tailwind,postgres,mysql,prisma,docker,git,github,linux,figma&perline=9" alt="Skills" />
 </p>
 
 ---
----
 
-### 📈 My Stats
+### 📈 GitHub Stats
 
-[![Blevy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nova0408-glitch&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
 
-<br>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nova0408-glitch&theme=react-dark&bg_color=0D1117&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img style="display: block; margin: auto; align:center;" alt="GitHub Stats" src="https://github-readme-stats.zohan.tech/api?username=nova0408-glitch&count_private=true&show_icons=true&theme=github_dark&border_radius=30&border_color=39D353&icon_color=39D353&title_color=fff" />
+<img src="https://github-readme-stats.zohan.tech/api?username=nova0408-glitch&show_icons=true&theme=github_dark&hide_border=true&border_radius=20&include_all_commits=true&count_private=true&title_color=39D353&icon_color=39D353&text_color=FFFFFF" alt="GitHub Stats" />
 
-<br>
-<br>
-
-<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=nova0408-glitch&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
-
-<br>
+<img src="https://github-readme-stats.zohan.tech/api/top-langs/?username=nova0408-glitch&layout=compact&langs_count=10&theme=github_dark&hide_border=true&border_radius=20&title_color=39D353" alt="Top Languages" />
 
 </div>
+
+<br>
 
 ---
 
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://github.com/sponsors/nova0408-glitch"><img src="https://img.shields.io/badge/Sponsor-💖-red" alt="Sponsor me" /></a>
+  <a href="https://github.com/sponsors/nova0408-glitch">
+    <img src="https://img.shields.io/badge/Sponsor_%E2%9D%A4-39D353?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" />
+  </a>
 </p>
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-leverianbeatus@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:leverianbeatus@gmail.com)
+<p align="center">
+  <a href="mailto:leverianbeatus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 <div align="center">
-
-> "Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live." – John Woods<br>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=nova0408-glitch&label=Profile%20Views&labelColor=%23000000&countColor=%2339d353)
-
-
+  <img src="https://api.visitorbadge.io/api/visitors?path=nova0408-glitch&label=Profile%20Views&labelColor=0D1117&countColor=39D353" alt="Visitors" />
 </div>
 
+---
+
+> **"Write code as if the person who ends up maintaining it is a violent psychopath who knows where you live."** – John Woods
+
+<div align="center">
+  <sub>Made with ❤️ and lots of ☕</sub>
+</div>
