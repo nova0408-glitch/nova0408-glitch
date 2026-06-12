@@ -48,7 +48,7 @@
 ## 🛠️ Toolbelt
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,postgres,git,vscode,archlinux,java,python,docker,linux&perline=8" alt="Toolbelt" />
+  <img src="https://skillicons.dev/icons?i=arduino,githubactions,react,nodejs,mysql,git,vscode,archlinux,java,python,linux&perline=8" alt="Toolbelt" />
 </p>
 
 <br>
@@ -78,7 +78,7 @@
 ## 🧠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,nextjs,nodejs,express,tailwind,postgres,mysql,prisma,docker,git,github,linux,figma&perline=9" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,python,java,react,nodejs,mysql,prisma,git,github,linux,figma&perline=9" alt="Skills" />
 </p>
 
 ---
