@@ -65,9 +65,8 @@
 ![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) <!-- Replace with real screenshot -->
 
 ### **[Messyrepo](https://github.com/nova0408-glitch/Messyrepo)**
-**Holographic Web Effects** — Experimental holographic & glitch animations.
 
-![Messyrepo Preview](https://via.placeholder.com/680x300/00B4FF/0D1117?text=Holographic+Effects) <!-- Replace with real screenshot -->
+![Messyrepo Preview](strangerthings.png)
 
 </div>
 
