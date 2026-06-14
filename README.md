@@ -64,10 +64,10 @@
 
 ![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) <!-- Replace with real screenshot -->
 
-### **[messy_intro](https://github.com/nova0408-glitch/messy_intro)**
+### **[Messyrepo](https://github.com/nova0408-glitch/Messyrepo)**
 **Holographic Web Effects** — Experimental holographic & glitch animations.
 
-![Messy Intro Preview](https://via.placeholder.com/680x300/00B4FF/0D1117?text=Holographic+Effects) <!-- Replace with real screenshot -->
+![Messyrepo Preview](https://via.placeholder.com/680x300/00B4FF/0D1117?text=Holographic+Effects) <!-- Replace with real screenshot -->
 
 </div>
 
