@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! I'm <b>Novaglitch</b> 👋</h1>
 
 <p align="center">
-  <em>Computer Science Student • Full-Stack Developer • Open Source Enthusiast</em>
+  <em>Computer Science Student • Open Source Enthusiast</em>
 </p>
 
 <div align="center">
