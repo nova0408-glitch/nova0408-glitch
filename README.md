@@ -64,9 +64,9 @@
 
 ![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) <!-- Replace with real screenshot -->
 
-### **[Messyrepo](https://github.com/nova0408-glitch/Messyrepo)**
+### **[School SIMS](https://github.com/nova0408-glitch/OpenSource_Assignment_Bsc_CS2_Group_04)**
 
-![Messyrepo Preview](strangerthings.png)
+![School SIMS Preview](strangerthings.png)
 
 </div>
 
