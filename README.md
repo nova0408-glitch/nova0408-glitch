@@ -62,11 +62,11 @@
 ### **[SAS-1.0](https://github.com/nova0408-glitch/SAS-1.0)**
 **Attendance Tracking System** — Monitors daily punctuality and presence for organizations.
 
-![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) <!-- Replace with real screenshot -->
+![SAS Preview](https://via.placeholder.com/680x300/39D353/0D1117?text=SAS-1.0+Preview) 
 
 ### **[School SIMS](https://github.com/nova0408-glitch/OpenSource_Assignment_Bsc_CS2_Group_04)**
 
-![School SIMS Preview](strangerthings.png)
+![School SIMS Preview](sims.png)
 
 </div>
 
